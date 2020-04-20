@@ -1,8 +1,3 @@
-+++
-title = "DevOps presentation"
-outputs = ["Reveal"]
-+++
-
 # DevOps
 
 ## Historique
