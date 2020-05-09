@@ -14,7 +14,7 @@ weight = 20
 
 ### Scaling
 
-![](http://blog.idonethis.com/wp-content/uploads/2018/11/Untitled.png)
+![](/teamscaling.png)
 
 {{% source %}}
 http://blog.idonethis.com/two-pizza-team/
