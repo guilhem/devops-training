@@ -12,6 +12,7 @@ baseName = "index"
 mediaType = "text/html"
 isHTML = true
 
-[reveal_hugo]
+[params.reveal_hugo]
+theme = "white"
 slide_number = true
 preview_links = true

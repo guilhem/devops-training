@@ -1,3 +1,7 @@
+# Parts
+
+---
+
 ## legacy {#legacy}
 
 [go to slides]({{% relref "/legacy" %}})

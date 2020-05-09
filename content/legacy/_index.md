@@ -8,7 +8,7 @@ alt = "Company logo"
 
 # Origin Story
 
-How do we arrive here ?
+What's happen before?
 
 ---
 
@@ -79,9 +79,15 @@ Help to perform work
 
 ---
 
-### strategic differentiator
+### Strategic Differentiator
 
 - Tech used to perform
+
+{{% note %}}
+
+For example: PayPal vs Banks
+
+{{% /note %}}
 
 {{% /section %}}
 
@@ -154,6 +160,14 @@ End of 1990s
 An answer to cost center
 
 {{% /note %}}
+
+---
+
+### Another way to colaborate
+
+People from different companies, cultures, background can work on the same product.
+
+Why not you?
 
 {{% /section %}}
 

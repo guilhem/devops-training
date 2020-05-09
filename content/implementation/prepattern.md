@@ -14,4 +14,16 @@ weight = 5
 
 ## Separate DevOps group
 
+---
+
+## Manage change with plan and architects
+
+---
+
+> No plan survives contact with the enemy.
+
+{{% source %}}
+Helmuth von Moltke the Elder
+{{% /source %}}
+
 {{% /section %}}

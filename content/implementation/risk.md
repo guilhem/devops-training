@@ -6,6 +6,14 @@ weight = 15
 
 ---
 
+## What is a Risk
+
+- occurence
+- severity
+- non-detectability
+
+---
+
 ## Risks
 
 - Software fault tolerance  

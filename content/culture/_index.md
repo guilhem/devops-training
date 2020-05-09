@@ -141,6 +141,8 @@ Did we succeed?
 
 > DevOps is about eliminating technical, process, and cultural barriers between idea and execution - using software
 
+Velocity
+
 ---
 
 {{% section %}}
