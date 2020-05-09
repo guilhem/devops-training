@@ -1,3 +1,18 @@
-baseURL = "http://example.org/"
+baseURL = "https://devops-training.barpilot.io/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "DevOps Training"
+
+theme = "reveal-hugo"
+
+[markup.goldmark.renderer]
+unsafe = true
+
+[outputFormats.Reveal]
+baseName = "index"
+mediaType = "text/html"
+isHTML = true
+
+[params.reveal_hugo]
+theme = "white"
+slide_number = true
+preview_links = true
