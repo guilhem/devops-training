@@ -31,6 +31,11 @@ Some notes are present for more detail when doing presentation (touch `s`).
 This training use [Hugo](https://gohugo.io/) static site generator.
 
 You can deploy it where you want, [devops.training.barpilot.io](http://devops.training.barpilot.io) is hosted by [@netlify](https://www.netlify.com/).
+
+## Thank you
+
+- [@dzello](https://github.com/dzello) for amazing https://github.com/dzello/reveal-hugo project
+
 ## Contributors :sparkles:
 <table>
 <tr>
