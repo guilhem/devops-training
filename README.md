@@ -1,73 +1,35 @@
-# DevOps
+# DevOps-training
 
-## Historique
+A modular training about DevOps:
+- Legacy
+- Culture
+- Implementations
+- Deployment
+- Ennemies
 
-### DevOps
+This training only focus on DevOps "culture".  
+It's not about technical parts (CI, automation, containers, etc) but you can find a lot of very good training about the tool you choose.
 
-Culture, monitoring, SLA, efficiency, automation, as a service, meetup, remise en question, transformation, OKR
+## How to present
 
-CAMS CI security, Deployment, culture, SRE, postmortem, silos, communication, agile, services, BBL, feature teams, guildes, you build it you run it, performance, stabilite, innovation, A/B, canary, 12factor
+You can use it directly from http://devops.training.barpilot.io or [deploy it yourself](##How-to-deploy).
 
-Continuous integration | Continuous improvement | Monitoring | Focus on customer's need | Learn from failure |
+Presentation was made for a 2/3 days training, but you can compose as you want for a 1 day training without problem.
 
-### Pas DevOps
+Some notes are present for more detail when doing presentation:
+1. Clone with touch `c`.
+2. Activate _presentation mode_ with touch `p`.
 
-Waterfall, "equipe devops", séparation départements dev/pas dev, religion tech, dogme,
+## How to customize
 
-ITIL, ingenieur "devops", coupling, chamanism, no failure, monolith,
+1. Fork
+2. Edit
+3. Enjoy
+4. optional but warmly welcome  
+   Pull Request
+   
+## How to deploy
 
-silos, blame culture,
+This training use [Hugo](https://gohugo.io/) static site generator.
 
-### Sujet: application
-
-(Radar)
-
-BUT: justement adapté
-
-Facteurs:
-Fonctionnalités
-securisé
-performance
-resiliante
-usability
-
-velocite :
-maintenabilité (design logiciel)
-deploiement rapide
-tests (unitaires, perfs, etc)
-
-leviers:
-refactoring
-composants 3rd party (BDD, queue, framework ...)
-log
-metriques
-scalability
-automated tests (CI)
-
-### acteurs
-
-Marketing : représentant du client (via etudes, UX ...)
-Dev : "Metier" création de la valeur, "build"
-QA : verification des facteurs
-Ops : run
-Support : resolution immediate
-
-#### Avant
-
-Marketing :
-Dev :
-QA :
-Sec :
-Ops : +int
-Support :
-PO :
-
-#### apres
-
-Marketing :
-Dev :
-QA :
-Sec :
-Ops :
-Support :
-PO :
+You can deploy it where you want, [devops.training.barpilot.io](http://devops.training.barpilot.io) is hosted by [@netlify](https://www.netlify.com/).
