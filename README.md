@@ -16,9 +16,7 @@ You can use it directly from http://devops.training.barpilot.io or [deploy it yo
 
 Presentation was made for a 2/3 days training, but you can compose as you want for a 1 day training without problem.
 
-Some notes are present for more detail when doing presentation:
-1. Clone with touch `c`.
-2. Activate _presentation mode_ with touch `p`.
+Some notes are present for more detail when doing presentation (touch `s`).
 
 ## How to customize
 
