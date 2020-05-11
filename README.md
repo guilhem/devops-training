@@ -33,3 +33,15 @@ Some notes are present for more detail when doing presentation:
 This training use [Hugo](https://gohugo.io/) static site generator.
 
 You can deploy it where you want, [devops.training.barpilot.io](http://devops.training.barpilot.io) is hosted by [@netlify](https://www.netlify.com/).
+## Contributors :sparkles:
+<table>
+<tr>
+                <td align="center">
+                    <a href="https://github.com/guilhem">
+                        <img src="https://avatars1.githubusercontent.com/u/486876?v=4" width="100;" alt="guilhem"/>
+                        <br />
+                        <sub><b>Guilhem Lettron</b></sub>
+                    </a>
+                </td></tr>
+</table>
+
