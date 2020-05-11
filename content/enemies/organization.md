@@ -31,10 +31,6 @@ unwillingness to:
 
 {{< youtube bvim4rsNHkQ >}}
 
-<section data-noprocess>
-  <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/bvim4rsNHkQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</section>
-
 {{% /section %}}
 
 ---
