@@ -12,7 +12,7 @@ It's not about technical parts (CI, automation, containers, etc) but you can fin
 
 ## How to present
 
-You can use it directly from http://devops.training.barpilot.io or [deploy it yourself](##How-to-deploy).
+You can use it directly from http://devops.training.barpilot.io or [deploy it yourself](#how-to-deploy).
 
 Presentation was made for a 2/3 days training, but you can compose as you want for a 1 day training without problem.
 
