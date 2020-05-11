@@ -35,6 +35,7 @@ You can deploy it where you want, [devops.training.barpilot.io](http://devops.tr
 ## Thank you
 
 - [@dzello](https://github.com/dzello) for amazing https://github.com/dzello/reveal-hugo project
+- [Christφphe Chaudier](https://twitter.com/c_chaudier) for his work on DevOps.
 
 ## Contributors :sparkles:
 <table>
