@@ -37,7 +37,7 @@ You can deploy it where you want, [devops.training.barpilot.io](http://devops.tr
 ## Thank you
 
 - [@dzello](https://github.com/dzello) for amazing https://github.com/dzello/reveal-hugo project
-- [Christφphe Chaudier](https://twitter.com/c_chaudier) for his work on DevOps.
+- [ChristOphe Chaudier](https://twitter.com/c_chaudier) for his work on DevOps.
 
 ## Contributors :sparkles:
 <table>
@@ -47,6 +47,13 @@ You can deploy it where you want, [devops.training.barpilot.io](http://devops.tr
                         <img src="https://avatars1.githubusercontent.com/u/486876?v=4" width="100;" alt="guilhem"/>
                         <br />
                         <sub><b>Guilhem Lettron</b></sub>
+                    </a>
+                </td>
+                <td align="center">
+                    <a href="https://github.com/CharlesJUDITH">
+                        <img src="https://avatars3.githubusercontent.com/u/953960?v=4" width="100;" alt="CharlesJUDITH"/>
+                        <br />
+                        <sub><b>Charles JUDITH</b></sub>
                     </a>
                 </td></tr>
 </table>
