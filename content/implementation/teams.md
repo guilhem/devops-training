@@ -168,9 +168,9 @@ Join another team for 1 sprint/quarter to achieve an Objective needed
 
 ---
 
-## Pair Review Evaluation
+## Peer Review Evaluation
 
-No one than your pair can evaluate what you did to achieve Objectives
+No one than your peer(s) can evaluate what you did to achieve Objectives
 
 ---
 
@@ -184,4 +184,4 @@ Depending of:
 
 Change when needed
 
-Today work is the legacy of tomorrow.
+Today's work is the legacy of tomorrow.
