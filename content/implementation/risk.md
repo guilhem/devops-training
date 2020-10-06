@@ -50,7 +50,7 @@ weight = 15
 
 ### Time-based availability
 
-[uptime.is](https//uptime.is)
+[uptime.is](https://uptime.is)
 
 ### Aggregate availability
 
