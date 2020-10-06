@@ -51,7 +51,7 @@ SRE is "what happens when a software engineer is tasked with what used to be cal
 
 ## Leverage tooling and automation
 
-- SREs have a charter to automate menial tasks (called "toil") away
+- SREs have a charter to automate manial tasks (called "toil") away
 
 ---
 
