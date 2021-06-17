@@ -1,5 +1,5 @@
 +++
-title = "Legacy of DevOps"
+title = "DevOps Legacy"
 outputs = ["Reveal"]
 +++
 

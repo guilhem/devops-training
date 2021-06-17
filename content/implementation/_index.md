@@ -1,5 +1,5 @@
 +++
-title = "History of DevOps"
+title = "How to implement DevOps"
 outputs = ["Reveal"]
 custom_css = "css/custom.css"
 +++
