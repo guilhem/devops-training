@@ -1,9 +1,6 @@
 +++
 title = "History of DevOps"
 outputs = ["Reveal"]
-[logo]
-src = "logo.png"
-alt = "Company logo"
 +++
 
 # History of DevOps

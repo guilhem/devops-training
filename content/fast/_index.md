@@ -1,9 +1,6 @@
 +++
 title = "Fast"
 outputs = ["Reveal"]
-[logo]
-src = "logo.png"
-alt = "Company logo"
 +++
 
 {{% section %}}

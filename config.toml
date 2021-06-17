@@ -16,3 +16,6 @@ isHTML = true
 theme = "white"
 slide_number = true
 preview_links = true
+
+[params.logo]
+src = "/logo.png"
