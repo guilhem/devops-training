@@ -429,7 +429,7 @@ Then this is what you'll put in `config.toml`:
 
 ```toml
 [params.reveal_hugo]
-reveal_hugo.custom_theme = "stylesheets/custom-theme.css"
+custom_theme = "stylesheets/custom-theme.css"
 ```
 
 ### Compiling a custom Reveal.js theme with Hugo pipes
@@ -445,8 +445,8 @@ Reveal.js theme customization is easiest to do by overriding variables in the SC
 If you just wanted to change the presentation colors, here's what you might put in `custom-theme.scss`:
 
 ```scss
-@import "reveal-js/css/theme/template/mixins";
-@import "reveal-js/css/theme/template/settings";
+@import "../reveal-js/css/theme/template/mixins";
+@import "../reveal-js/css/theme/template/settings";
 
 $backgroundColor: rgb(3, 129, 45);
 $mainColor: #fff;
@@ -459,8 +459,8 @@ This is what the front matter would look like:
 
 ```toml
 [params.reveal_hugo]
-reveal_hugo.custom_theme = "stylesheets/custom-theme.css"
-reveal_hugo.custom_theme_compile = true
+custom_theme = "stylesheets/custom-theme.scss"
+custom_theme_compile = true
 ```
 
 You can also add options that will be passed to [Hugo's toCSS method](https://gohugo.io/hugo-pipes/scss-sass/#options):
@@ -515,7 +515,7 @@ If your Hugo site already has a theme but you'd like to create a presentation fr
 
 ```shell
 cd my-hugo-site
-git clone git@github.com:dzello/reveal-hugo.git themes/reveal-hugo
+git clone https://github.com/dzello/reveal-hugo.git themes/reveal-hugo
 cd themes/reveal-hugo
 cp -r layouts static ../../
 ```
@@ -577,6 +577,7 @@ Find many more on the Reveal.js wiki: [Plugins, tools and hardware](https://gith
 Have you built something with reveal-hugo? Add a link to it here.
 
 - [dzello's Paris Wedding Weekend Guide](https://estelle.and.dzello.com/guide/) ([source](https://github.com/dzello/estelle-and-josh/blob/master/site/content/guide/_index.md))
+- [DevOps Training](https://devops.training.barpilot.io/) ([source](https://github.com/guilhem/devops-training))
 
 
 ## Changelog
