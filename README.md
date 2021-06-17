@@ -44,14 +44,14 @@ You can deploy it where you want, [devops.training.barpilot.io](http://devops.tr
 <tr>
                 <td align="center">
                     <a href="https://github.com/guilhem">
-                        <img src="https://avatars1.githubusercontent.com/u/486876?v=4" width="100;" alt="guilhem"/>
+                        <img src="https://avatars.githubusercontent.com/u/486876?v=4" width="100;" alt="guilhem"/>
                         <br />
                         <sub><b>Guilhem Lettron</b></sub>
                     </a>
                 </td>
                 <td align="center">
                     <a href="https://github.com/CharlesJUDITH">
-                        <img src="https://avatars3.githubusercontent.com/u/953960?v=4" width="100;" alt="CharlesJUDITH"/>
+                        <img src="https://avatars.githubusercontent.com/u/953960?v=4" width="100;" alt="CharlesJUDITH"/>
                         <br />
                         <sub><b>Charles JUDITH</b></sub>
                     </a>
